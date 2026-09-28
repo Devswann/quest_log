@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "quests": [
+    {
+      "id": "import-example",
+      "questName": "Test the imported journal",
+      "description": "A sample quest for checking backup import and older-format migration.",
+      "section": "Testing",
+      "isComplete": false
+    }
+  ]
+}
